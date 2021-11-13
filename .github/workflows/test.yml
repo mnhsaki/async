@@ -28,7 +28,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           
-            cd /d/async/
+            cd /async/
             
             git checkout main
             
