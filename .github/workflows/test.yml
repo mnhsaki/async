@@ -29,4 +29,7 @@ jobs:
         run: |
           
             cd g:\laragon\www\server2\async
-            git pull origin testzz
+            
+            git checkout main
+            
+            git pull origin main
