@@ -28,4 +28,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           
-            git pull origin test
+            cd g:\laragon\www\server2\async
+            git pull origin testzz
