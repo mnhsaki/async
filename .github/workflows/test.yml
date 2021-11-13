@@ -28,7 +28,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           
-            cd /g/laragon/www/server2/async/
+            cd /d/async/
             
             git checkout main
             
